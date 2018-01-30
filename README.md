@@ -12,3 +12,15 @@ https://github.com/llSourcell/YOLO_Object_Detection
 
 
 Darknet has also an implementation
+
+
+Some implementations:
+
+https://www.youtube.com/watch?v=_kxX09i4fds
+
+
+Masking and segmentation with R-CNN: https://github.com/karolmajek/Mask_RCNN
+
+YOLO 9000: 
+
+https://github.com/karolmajek/face_recognition
