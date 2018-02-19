@@ -24,3 +24,6 @@ Masking and segmentation with R-CNN: https://github.com/karolmajek/Mask_RCNN
 YOLO 9000: 
 
 https://github.com/karolmajek/face_recognition
+
+
+http://christopher5106.github.io/object/detectors/2017/08/10/bounding-box-object-detectors-understanding-yolo.html
