@@ -34,3 +34,8 @@ http://christopher5106.github.io/object/detectors/2017/08/10/bounding-box-object
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
 
 https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8
+
+
+# Capsule Nets
+
+https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc
