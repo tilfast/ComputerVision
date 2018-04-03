@@ -33,6 +33,12 @@ Siamese network:
 
 https://sorenbouma.github.io/blog/oneshot/
 
+Deep Ranking:
+
+https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978
+
+
+
 
 # Face recognition
 
