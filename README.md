@@ -29,6 +29,11 @@ https://github.com/karolmajek/face_recognition
 http://christopher5106.github.io/object/detectors/2017/08/10/bounding-box-object-detectors-understanding-yolo.html
 
 
+Siamese network:
+
+https://sorenbouma.github.io/blog/oneshot/
+
+
 # Face recognition
 
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
