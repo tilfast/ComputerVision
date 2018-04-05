@@ -46,6 +46,10 @@ Multi-class classification
 https://medium.com/learning-machine-learning/multi-class-fish-classification-from-images-with-transfer-learning-using-keras-335125637544
 
 
+Bottleneck approach:
+
+http://www.codesofinterest.com/2017/08/bottleneck-features-multi-class-classification-keras.html
+
 
 # Face recognition
 
