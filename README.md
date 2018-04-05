@@ -29,6 +29,10 @@ https://github.com/karolmajek/face_recognition
 http://christopher5106.github.io/object/detectors/2017/08/10/bounding-box-object-detectors-understanding-yolo.html
 
 
+
+# Object recognition
+
+
 Siamese network:
 
 https://sorenbouma.github.io/blog/oneshot/
@@ -37,6 +41,9 @@ Deep Ranking:
 
 https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978
 
+Multi-class classification
+
+https://medium.com/learning-machine-learning/multi-class-fish-classification-from-images-with-transfer-learning-using-keras-335125637544
 
 
 
