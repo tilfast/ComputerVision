@@ -51,6 +51,11 @@ Bottleneck approach:
 http://www.codesofinterest.com/2017/08/bottleneck-features-multi-class-classification-keras.html
 
 
+dogs and cats... with some graphs
+
+https://nbviewer.jupyter.org/gist/embanner/6149bba89c174af3bfd69537b72bca74
+
+
 # Face recognition
 
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
