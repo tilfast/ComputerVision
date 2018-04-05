@@ -66,3 +66,7 @@ https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning
 # Capsule Nets
 
 https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc
+
+# Triplet loss
+
+https://stackoverflow.com/questions/47727679/triplet-model-for-image-retrieval-from-the-keras-pretrained-network
