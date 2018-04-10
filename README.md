@@ -41,6 +41,10 @@ Deep Ranking:
 
 https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978
 
+
+https://github.com/paucarre/tiefvision
+
+
 Multi-class classification
 
 https://medium.com/learning-machine-learning/multi-class-fish-classification-from-images-with-transfer-learning-using-keras-335125637544
