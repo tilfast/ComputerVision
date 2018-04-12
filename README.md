@@ -59,6 +59,8 @@ dogs and cats... with some graphs
 
 https://nbviewer.jupyter.org/gist/embanner/6149bba89c174af3bfd69537b72bca74
 
+https://github.com/paucarre/tiefvision
+
 
 # Face recognition
 
