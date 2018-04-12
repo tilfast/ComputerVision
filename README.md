@@ -79,8 +79,6 @@ https://stackoverflow.com/questions/47727679/triplet-model-for-image-retrieval-f
 
 # Articles
 
-https://arxiv.org/ftp/arxiv/papers/1709/1709.08761.pdf
-
 http://forums.fast.ai/t/image-similarity-using-keras/6136
 
 http://slazebni.cs.illinois.edu/spring17/lec09_similarity.pdf
@@ -99,3 +97,9 @@ https://pdfs.semanticscholar.org/b00f/3fec55b3fecf82d3506de5540ed242549ab3.pdf
 
 https://www.linkedin.com/pulse/using-deep-learning-fashion-similarity-face-vaibhav-gusain/
 
+
+# Keeper:
+
+Bon article relatif a l'utilisation de paralelle de different CNN pour obtenir une granularite a differents niveaux ameliorants la precision de la prediction
+
+https://arxiv.org/ftp/arxiv/papers/1709/1709.08761.pdf
