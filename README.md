@@ -74,3 +74,26 @@ https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-
 # Triplet loss
 
 https://stackoverflow.com/questions/47727679/triplet-model-for-image-retrieval-from-the-keras-pretrained-network
+
+# Articles
+
+https://arxiv.org/ftp/arxiv/papers/1709/1709.08761.pdf
+
+http://forums.fast.ai/t/image-similarity-using-keras/6136
+
+http://slazebni.cs.illinois.edu/spring17/lec09_similarity.pdf
+
+https://towardsdatascience.com/find-similar-images-using-autoencoders-315f374029ea
+
+https://www.kaggle.com/kmader/image-similarity-with-siamese-networks
+
+https://link.springer.com/chapter/10.1007/978-3-319-59153-7_25
+
+https://arxiv.org/pdf/1605.04039.pdf
+
+https://medium.com/walmartlabs/product-matching-in-ecommerce-4f19b6aebaca
+
+https://pdfs.semanticscholar.org/b00f/3fec55b3fecf82d3506de5540ed242549ab3.pdf
+
+https://www.linkedin.com/pulse/using-deep-learning-fashion-similarity-face-vaibhav-gusain/
+
