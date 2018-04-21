@@ -2,6 +2,9 @@
 collections of resources for Computer Vision
 
 
+New loss funcion: ### magnet loss
+
+
 https://www.youtube.com/watch?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&time_continue=1011&v=jG3bu0tjFbk
 
 
